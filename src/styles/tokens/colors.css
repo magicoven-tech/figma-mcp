@@ -1,0 +1,114 @@
+/* 
+ * Design System Color Tokens
+ * Generated from Figma design system
+ * Last Updated: 2025-05-22
+ */
+
+:root {
+  /* ============ Neutral Colors ============ */
+  --color-neutral-0: #FFFFFF;    /* fill-hgcx9l - White */
+  --color-neutral-10: #F4F4F5;  /* fill-hj71jc2 - Light gray (subtle background) */
+  --color-neutral-20: #DDE1E4;  /* fill-hh7wp1q - Light border */
+  --color-neutral-30: #BABEC9;  /* fill-hm1pgj3 - Medium gray (secondary text) */
+  --color-neutral-40: #636B7E;  /* fill-hx75z0u - Dark gray (secondary text) */
+  --color-neutral-50: #22242A;  /* fill-hrul194 - Primary text */
+  --color-neutral-60: #111111;  /* fill-hu7pl5 - Black */
+  
+  /* ============ Brand Colors ============ */
+  --color-brand-primary: #FF337C;      /* fill-h9qxh25 - Primary brand color */
+  --color-brand-primary-dark: #C81D5B; /* fill-hi9oovo - Primary hover/dark */
+  --color-brand-secondary: #AA70FF;    /* fill-hcawcq8 - Secondary brand color */
+  --color-brand-dark: #262F4A;         /* fill-hv4xoak - Dark background/text */
+  --color-brand-accent: #DD185F;       /* fill-hql8f81 - Accent color */
+  
+  /* ============ Semantic Colors - Success ============ */
+  --color-semantic-success: #0AB15F;    /* fill-h50r7s - Success text/icon */
+  --color-semantic-success-dark: #1A7B41; /* fill-ho0gtgv - Success hover */
+  --color-semantic-success-light: #E5FFF3; /* fill-h5bplp0 - Success background */
+  
+  /* ============ Semantic Colors - Warning ============ */
+  --color-semantic-warning: #FFDA57;    /* fill-h1hiax6 - Warning text/icon */
+  --color-semantic-warning-dark: #F5963D; /* fill-hrqmhzo - Warning hover */
+  --color-semantic-warning-light: #FFF8D6; /* fill-ho3net - Warning background */
+  
+  /* ============ Semantic Colors - Error ============ */
+  --color-semantic-error: #E04747;      /* Updated to match brand primary color from screenshot (was #FF4E4C) */
+  --color-semantic-error-dark: #B21919;  /* Updated to match brand primary dark from screenshot (was #E04747) */
+  --color-semantic-error-darker: #8C0A0A; /* Darker shade for error states (was #B21919) */
+  --color-semantic-error-light: #FFEBEB; /* Using subtle error as light (was #FFF4F4) */
+  --color-semantic-error-lighter: #FFF4F4; /* Using error light as lighter (was #FFD6D6) */
+  --color-semantic-error-subtle: #FFF8F8; /* Lighter shade for subtle backgrounds (was #FFEBEB) */
+  
+  /* ============ Semantic Colors - Info ============ */
+  --color-semantic-info: #3D96FF;       /* fill-hflhuor - Info text/icon */
+  --color-semantic-info-dark: #7785FF;  /* fill-hkkn0cs - Info hover */
+  --color-semantic-info-light: #EAF6FF; /* fill-hvvngyl - Info background */
+  
+  /* ============ Background Colors ============ */
+  --color-background-default: var(--color-neutral-0);
+  --color-background-subtle: var(--color-neutral-10);
+  --color-background-brand-subtle: #FEEBF2;  /* fill-hfo0f35 - Brand subtle background */
+  --color-background-secondary-subtle: #EDE0FF; /* fill-hbl6zr5 - Secondary subtle background */
+  
+  /* ============ Border Colors ============ */
+  --color-border-default: var(--color-neutral-20);
+  --color-border-light: #E0E4FF;       /* fill-h27wpkh - Light border */
+  --color-border-subtle: var(--color-neutral-10);
+  --color-border-medium: #DDDFE4;      /* fill-hhdemzc - Medium border */
+  --color-border-strong: #FFEAD6;      /* fill-h1074gr - Strong border */
+  
+  /* ============ Text Colors ============ */
+  --color-text-primary: var(--color-neutral-50);
+  --color-text-secondary: var(--color-neutral-40);
+  --color-text-tertiary: var(--color-neutral-30);
+  --color-text-on-primary: var(--color-neutral-0);
+  --color-text-on-dark: var(--color-neutral-0);
+  
+  /* ============ Interactive States ============ */
+  --color-interactive-primary: var(--color-brand-primary);
+  --color-interactive-primary-hover: var(--color-brand-primary-dark);
+  --color-interactive-secondary: var(--color-neutral-10);
+  --color-interactive-secondary-hover: var(--color-neutral-20);
+  
+  /* ============ Deprecation Notices ============ */
+  /* The following colors are deprecated and will be removed in the next major version */
+  /* Please use the semantic color tokens instead */
+  --color-error: var(--color-semantic-error);
+  --color-warning: var(--color-semantic-warning);
+  --color-success: var(--color-semantic-success);
+  --color-info: var(--color-semantic-info);
+}
+
+/* Utility classes for background colors */
+.bg-neutral-0 { background-color: var(--color-neutral-0); }
+.bg-neutral-10 { background-color: var(--color-neutral-10); }
+.bg-neutral-20 { background-color: var(--color-neutral-20); }
+.bg-neutral-30 { background-color: var(--color-neutral-30); }
+.bg-neutral-40 { background-color: var(--color-neutral-40); }
+.bg-neutral-50 { background-color: var(--color-neutral-50); }
+.bg-neutral-60 { background-color: var(--color-neutral-60); }
+
+/* Utility classes for text colors */
+.text-neutral-0 { color: var(--color-neutral-0); }
+.text-neutral-10 { color: var(--color-neutral-10); }
+.text-neutral-20 { color: var(--color-neutral-20); }
+.text-neutral-30 { color: var(--color-neutral-30); }
+.text-neutral-40 { color: var(--color-neutral-40); }
+.text-neutral-50 { color: var(--color-neutral-50); }
+.text-neutral-60 { color: var(--color-neutral-60); }
+
+/* Brand color utilities */
+.bg-brand-primary { background-color: var(--color-brand-primary); }
+.text-brand-primary { color: var(--color-brand-primary); }
+.bg-brand-secondary { background-color: var(--color-brand-secondary); }
+.text-brand-secondary { color: var(--color-brand-secondary); }
+
+/* Semantic color utilities */
+.bg-success { background-color: var(--color-semantic-success); }
+.text-success { color: var(--color-semantic-success); }
+.bg-warning { background-color: var(--color-semantic-warning); }
+.text-warning { color: var(--color-semantic-warning); }
+.bg-error { background-color: var(--color-semantic-error); }
+.text-error { color: var(--color-semantic-error); }
+.bg-info { background-color: var(--color-semantic-info); }
+.text-info { color: var(--color-semantic-info); }

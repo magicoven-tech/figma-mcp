@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login Card Demo</title>
+  <style>
+    /* Global Styles */
+    :root {
+      /* Color Tokens */
+      --color-neutral-0: #FFFFFF;
+      --color-neutral-10: #F4F4F5;
+      --color-neutral-20: #DDE1E4;
+      --color-neutral-30: #BABEC9;
+      --color-neutral-40: #636B7E;
+      --color-neutral-50: #22242A;
+      --color-neutral-60: #111111;
+      
+      /* Brand Colors */
+      --color-brand-primary: #E04747;      /* Primary brand color */
+      --color-brand-primary-dark: #B21919;  /* Primary hover/dark */
+      --color-brand-secondary: #AA70FF;    /* Secondary brand color */
+      --color-brand-dark: #262F4A;         /* Dark background/text */
+      --color-brand-accent: #E04747;       /* Accent color */
+      
+      /* Success Colors */
+      --color-semantic-success: #0AB15F;    /* Success text/icon */
+      --color-semantic-success-dark: #1A7B41; /* Success hover */
+      --color-semantic-success-light: #E5FFF3; /* Success background */
+      
+      /* Error Colors */
+      --color-semantic-error: #E04747;      /* Error text/icon */
+      --color-semantic-error-dark: #B21919;  /* Error hover */
+      --color-semantic-error-darker: #8C0A0A; /* Error active */
+      --color-semantic-error-light: #FFEBEB; /* Error background */
+      --color-semantic-error-lighter: #FFF4F4; /* Lighter error state */
+      --color-semantic-error-subtle: #FFF8F8; /* Subtle error background */
+      
+      /* Warning Colors */
+      --color-semantic-warning: #FFB020;    /* Warning text/icon */
+      --color-semantic-warning-dark: #996A13; /* Warning hover */
+      --color-semantic-warning-light: #FFF5E0; /* Warning background */
+      
+      /* Info Colors */
+      --color-semantic-info: #3D96FF;       /* Info text/icon */
+      --color-semantic-info-dark: #7785FF;  /* Info hover */
+      --color-semantic-info-light: #EAF6FF; /* Info background */
+      --color-semantic-info-dark: #0C6ABF;
+      --color-semantic-info-light: #E6F4FF;
+      
+      /* Semantic aliases */
+      --color-text-primary: var(--color-neutral-50);
+      --color-text-secondary: var(--color-neutral-40);
+      --color-text-tertiary: var(--color-neutral-30);
+      --color-text-on-primary: var(--color-neutral-0);
+      
+      --color-border-default: var(--color-neutral-20);
+      --color-border-hover: var(--color-neutral-30);
+      
+      --color-background-page: var(--color-neutral-10);
+      --color-background-card: var(--color-neutral-0);
+      
+      /* Typography */
+      --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+      --font-size-base: 16px;
+      --line-height-base: 1.5;
+      
+      /* Spacing */
+      --spacing-xs: 4px;
+      --spacing-sm: 8px;
+      --spacing-md: 16px;
+      --spacing-lg: 24px;
+      --spacing-xl: 32px;
+      --spacing-xxl: 48px;
+      
+      /* Border radius */
+      --border-radius-sm: 4px;
+      --border-radius-md: 6px;
+      --border-radius-lg: 8px;
+      --border-radius-xl: 12px;
+      
+      /* Shadows */
+      --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+      --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+      --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+      --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1);
+      
+      /* Transitions */
+      --transition-base: all 0.2s ease-in-out;
+    }
+
+    /* Base styles */
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: var(--font-family);
+      font-size: var(--font-size-base);
+      line-height: var(--line-height-base);
+      color: var(--color-text-primary);
+      background-color: var(--color-background-page);
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      padding: 0;
+      margin: 0;
+    }
+
+    /* Demo page styles */
+    .login-demo {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: var(--spacing-xl);
+      background-color: var(--color-background-page);
+    }
+
+    .login-demo__container {
+      width: 100%;
+      max-width: 1200px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .login-demo__title {
+      font-size: 2.5rem;
+      color: var(--color-text-primary);
+      margin-bottom: var(--spacing-sm);
+      font-weight: 700;
+    }
+
+    .login-demo__subtitle {
+      font-size: 1.25rem;
+      color: var(--color-text-secondary);
+      margin-bottom: var(--spacing-xxl);
+      font-weight: 400;
+    }
+
+    .login-demo__card {
+      display: flex;
+      justify-content: center;
+      margin-bottom: var(--spacing-xxl);
+    }
+
+    /* Login Card Styles */
+    .login-card {
+      max-width: 400px;
+      width: 100%;
+      background: var(--color-neutral-0);
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+      padding: 32px;
+      border: 1px solid var(--color-border-default);
+    }
+
+    .login-card__header {
+      margin-bottom: 24px;
+      text-align: center;
+    }
+
+    .login-card__title {
+      color: var(--color-text-primary);
+      font-size: 24px;
+      font-weight: 600;
+      margin: 0 0 8px 0;
+      line-height: 1.3;
+    }
+
+    .login-card__subtitle {
+      color: var(--color-text-secondary);
+      font-size: 14px;
+      margin: 0;
+      line-height: 1.5;
+    }
+
+    .login-card__form {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .login-card__error {
+      display: none;
+      align-items: center;
+      gap: 8px;
+      background-color: var(--color-semantic-error-light);
+      color: var(--color-semantic-error);
+      padding: 12px 16px;
+      border-radius: 6px;
+      font-size: 14px;
+      font-weight: 500;
+      margin-bottom: 8px;
+      border: 1px solid var(--color-semantic-error-lighter);
+    }
+
+    .login-card__error.show {
+      display: flex;
+    }
+
+    .login-card__error-icon {
+      width: 16px;
+      height: 16px;
+      flex-shrink: 0;
+    }
+
+    .form-group {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      text-align: left;
+    }
+
+    .form-label-wrapper {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .form-label {
+      display: block;
+      color: var(--color-text-primary);
+      font-size: 14px;
+      font-weight: 500;
+      line-height: 1.4;
+    }
+
+    .forgot-password {
+      color: var(--color-brand-primary);
+      font-size: 13px;
+      font-weight: 500;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .forgot-password:hover {
+      color: var(--color-brand-primary-dark);
+      text-decoration: underline;
+    }
+
+    .input-wrapper {
+      position: relative;
+      width: 100%;
+    }
+
+    .form-input {
+      width: 100%;
+      padding: 12px 14px;
+      font-size: 14px;
+      line-height: 1.5;
+      color: var(--color-text-primary);
+      background-color: var(--color-neutral-0);
+      border: 1px solid var(--color-border-default);
+      border-radius: 6px;
+      transition: all 0.2s ease;
+      height: 44px;
+      font-family: inherit;
+    }
+
+    .form-input::placeholder {
+      color: var(--color-text-tertiary);
+    }
+
+    .form-input:focus {
+      border-color: var(--color-brand-primary);
+      box-shadow: 0 0 0 3px var(--color-semantic-info-light);
+      outline: none;
+    }
+
+    .form-input:disabled {
+      background-color: var(--color-neutral-10);
+      cursor: not-allowed;
+      opacity: 0.8;
+    }
+
+    .login-button {
+      width: 100%;
+      background-color: var(--color-brand-primary);
+      color: var(--color-text-on-primary);
+      border: none;
+      border-radius: 6px;
+      padding: 14px 16px;
+      font-size: 15px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      margin-top: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 48px;
+      font-family: inherit;
+    }
+
+    .login-button:hover:not(:disabled) {
+      background-color: var(--color-brand-primary-dark);
+    }
+
+    .login-button:active:not(:disabled) {
+      transform: translateY(1px);
+    }
+
+    .login-button:disabled {
+      background-color: var(--color-neutral-30);
+      cursor: not-allowed;
+      opacity: 0.8;
+    }
+
+    .button-loader {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .loader-spinner {
+      width: 18px;
+      height: 18px;
+      border: 2px solid rgba(255, 255, 255, 0.3);
+      border-radius: 50%;
+      border-top-color: #fff;
+      animation: spin 1s ease-in-out infinite;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    .login-card__footer {
+      margin-top: 24px;
+      text-align: center;
+      padding-top: 16px;
+      border-top: 1px solid var(--color-border-default);
+    }
+
+    .signup-text {
+      color: var(--color-text-secondary);
+      font-size: 14px;
+      margin: 0;
+    }
+
+    .signup-link {
+      color: var(--color-brand-primary);
+      font-weight: 500;
+      text-decoration: none;
+      transition: color 0.2s ease;
+    }
+
+    .signup-link:hover {
+      color: var(--color-brand-primary-dark);
+      text-decoration: underline;
+    }
+
+    .login-demo__tokens {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: var(--spacing-lg);
+      background-color: var(--color-background-card);
+      border-radius: var(--border-radius-md);
+      box-shadow: var(--shadow-sm);
+      text-align: left;
+    }
+
+    .login-demo__tokens h2 {
+      font-size: 1.25rem;
+      margin-bottom: var(--spacing-md);
+      color: var(--color-text-primary);
+    }
+
+    .login-demo__tokens ul {
+      list-style: none;
+      padding: 0;
+    }
+
+    .login-demo__tokens li {
+      padding: var(--spacing-xs) 0;
+      border-bottom: 1px solid var(--color-border-default);
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .login-demo__tokens li:last-child {
+      border-bottom: none;
+    }
+
+    /* Responsive adjustments */
+    @media (max-width: 768px) {
+      .login-demo {
+        padding: var(--spacing-md);
+      }
+      
+      .login-demo__title {
+        font-size: 2rem;
+      }
+      
+      .login-demo__subtitle {
+        font-size: 1.1rem;
+        margin-bottom: var(--spacing-xl);
+      }
+
+      .login-card {
+        padding: 24px 20px;
+        border: none;
+        box-shadow: none;
+        max-width: 100%;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="login-demo">
+    <div class="login-demo__container">
+      <div class="login-demo__card">
+        <div class="login-card">
+          <div class="login-card__header">
+            <h2 class="login-card__title">Welcome back</h2>
+            <p class="login-card__subtitle">Please enter your details to sign in</p>
+          </div>
+          
+          <form id="loginForm" class="login-card__form">
+            <div id="errorMessage" class="login-card__error">
+              <svg class="login-card__error-icon" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 8V12M12 16H12.01M22 12C22 17.5228 17.5228 22 12 22C6.47715 22 2 17.5228 2 12C2 6.47715 6.47715 2 12 2C17.5228 2 22 6.47715 22 12Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+              <span id="errorText">Please fill in all fields</span>
+            </div>
+            
+            <div class="form-group">
+              <label for="email" class="form-label">Email</label>
+              <div class="input-wrapper">
+                <input
+                  type="email"
+                  id="email"
+                  class="form-input"
+                  placeholder="Enter your email"
+                  required
+                />
+              </div>
+            </div>
+            
+            <div class="form-group">
+              <div class="form-label-wrapper">
+                <label for="password" class="form-label">Password</label>
+                <a href="#" class="forgot-password">Forgot password?</a>
+              </div>
+              <div class="input-wrapper">
+                <input
+                  type="password"
+                  id="password"
+                  class="form-input"
+                  placeholder="••••••••"
+                  required
+                />
+              </div>
+            </div>
+            
+            <button type="submit" class="login-button" id="submitButton">
+              <span class="button-text">Sign in</span>
+            </button>
+          </form>
+          
+          <div class="login-card__footer">
+            <p class="signup-text">
+              Don't have an account? <a href="#" class="signup-link">Sign up</a>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const form = document.getElementById('loginForm');
+      const emailInput = document.getElementById('email');
+      const passwordInput = document.getElementById('password');
+      const errorMessage = document.getElementById('errorMessage');
+      const errorText = document.getElementById('errorText');
+      const submitButton = document.getElementById('submitButton');
+      const buttonText = submitButton.querySelector('.button-text');
+
+      // Hide error message initially
+      errorMessage.classList.remove('show');
+
+      form.addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        // Reset error state
+        errorMessage.classList.remove('show');
+        
+        // Basic validation
+        if (!emailInput.value || !passwordInput.value) {
+          showError('Please fill in all fields');
+          return;
+        }
+        
+        // Email validation
+        const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+        if (!emailRegex.test(emailInput.value)) {
+          showError('Please enter a valid email address');
+          return;
+        }
+        
+        // Simulate form submission
+        simulateLogin();
+      });
+      
+      function showError(message) {
+        errorText.textContent = message;
+        errorMessage.classList.add('show');
+      }
+      
+      function simulateLogin() {
+        // Show loading state
+        submitButton.disabled = true;
+        buttonText.innerHTML = `
+          <span class="button-loader">
+            <span class="loader-spinner"></span>
+            Signing in...
+          </span>
+        `;
+        
+        // Simulate API call
+        setTimeout(function() {
+          // For demo purposes, just show success message
+          alert('Login successful! (This is a demo)');
+          
+          // Reset form
+          form.reset();
+          submitButton.disabled = false;
+          buttonText.textContent = 'Sign in';
+        }, 1500);
+      }
+    });
+  </script>
+</body>
+</html>

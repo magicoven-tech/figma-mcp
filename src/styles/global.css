@@ -1,0 +1,182 @@
+/* Global Styles for Design System Demo */
+:root {
+  /* Import color tokens */
+  --color-neutral-0: #FFFFFF;
+  --color-neutral-10: #F4F4F5;
+  --color-neutral-20: #DDE1E4;
+  --color-neutral-30: #BABEC9;
+  --color-neutral-40: #636B7E;
+  --color-neutral-50: #22242A;
+  --color-neutral-60: #111111;
+  
+  /* Brand Colors */
+  --color-brand-primary: #E04747;      /* Primary brand color */
+  --color-brand-primary-dark: #B21919;  /* Primary hover/dark */
+  --color-brand-accent: #E04747;       /* Accent color */
+  --color-brand-secondary: #AA70FF;
+  --color-brand-dark: #262F4A;
+  
+  --color-semantic-success: #0AB15F;
+  --color-semantic-success-dark: #1A7B41;
+  --color-semantic-success-light: #E5FFF3;
+  
+  /* Error Colors */
+  --color-semantic-error: #E04747;      /* Error text/icon */
+  --color-semantic-error-dark: #B21919;  /* Error hover */
+  --color-semantic-error-darker: #8C0A0A; /* Error active */
+  --color-semantic-error-light: #FFEBEB; /* Error background */
+  --color-semantic-error-lighter: #FFF4F4; /* Lighter error state */
+  --color-semantic-error-subtle: #FFF8F8; /* Subtle error background */
+  
+  --color-semantic-warning: #FFB020;
+  --color-semantic-warning-dark: #996A13;
+  --color-semantic-warning-light: #FFF5E0;
+  
+  --color-semantic-info: #1890FF;
+  --color-semantic-info-dark: #0C6ABF;
+  --color-semantic-info-light: #E6F4FF;
+  
+  /* Semantic aliases */
+  --color-text-primary: var(--color-neutral-50);
+  --color-text-secondary: var(--color-neutral-40);
+  --color-text-tertiary: var(--color-neutral-30);
+  --color-text-on-primary: var(--color-neutral-0);
+  
+  --color-border-default: var(--color-neutral-20);
+  --color-border-hover: var(--color-neutral-30);
+  
+  --color-background-page: var(--color-neutral-10);
+  --color-background-card: var(--color-neutral-0);
+  
+  /* Typography */
+  --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  --font-size-base: 16px;
+  --line-height-base: 1.5;
+  
+  /* Spacing */
+  --spacing-xs: 4px;
+  --spacing-sm: 8px;
+  --spacing-md: 16px;
+  --spacing-lg: 24px;
+  --spacing-xl: 32px;
+  --spacing-xxl: 48px;
+  
+  /* Border radius */
+  --border-radius-sm: 4px;
+  --border-radius-md: 6px;
+  --border-radius-lg: 8px;
+  --border-radius-xl: 12px;
+  
+  /* Shadows */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.1);
+  --shadow-md: 0 4px 6px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 10px 15px rgba(0, 0, 0, 0.1);
+  --shadow-xl: 0 20px 25px rgba(0, 0, 0, 0.1);
+  
+  /* Transitions */
+  --transition-base: all 0.2s ease-in-out;
+}
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  color: var(--color-text-primary);
+  background-color: var(--color-background-page);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  padding: 0;
+  margin: 0;
+}
+
+/* Demo page styles */
+.login-demo {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: var(--spacing-xl);
+  background-color: var(--color-background-page);
+}
+
+.login-demo__container {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.login-demo__title {
+  font-size: 2.5rem;
+  color: var(--color-text-primary);
+  margin-bottom: var(--spacing-sm);
+  font-weight: 700;
+}
+
+.login-demo__subtitle {
+  font-size: 1.25rem;
+  color: var(--color-text-secondary);
+  margin-bottom: var(--spacing-xxl);
+  font-weight: 400;
+}
+
+.login-demo__card {
+  display: flex;
+  justify-content: center;
+  margin-bottom: var(--spacing-xxl);
+}
+
+.login-demo__tokens {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: var(--spacing-lg);
+  background-color: var(--color-background-card);
+  border-radius: var(--border-radius-md);
+  box-shadow: var(--shadow-sm);
+  text-align: left;
+}
+
+.login-demo__tokens h2 {
+  font-size: 1.25rem;
+  margin-bottom: var(--spacing-md);
+  color: var(--color-text-primary);
+}
+
+.login-demo__tokens ul {
+  list-style: none;
+  padding: 0;
+}
+
+.login-demo__tokens li {
+  padding: var(--spacing-xs) 0;
+  border-bottom: 1px solid var(--color-border-default);
+  display: flex;
+  justify-content: space-between;
+}
+
+.login-demo__tokens li:last-child {
+  border-bottom: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .login-demo {
+    padding: var(--spacing-md);
+  }
+  
+  .login-demo__title {
+    font-size: 2rem;
+  }
+  
+  .login-demo__subtitle {
+    font-size: 1.1rem;
+    margin-bottom: var(--spacing-xl);
+  }
+}
