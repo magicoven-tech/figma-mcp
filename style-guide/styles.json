@@ -1,0 +1,1416 @@
+{
+  "12:2713": {
+    "key": "979a7a76806279671d72d7417ca6545ae863e828",
+    "name": "Label Color/Light/Tertiary",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "12:2715": {
+    "key": "578efe5991b962b94f0e9c7304a061473b065c51",
+    "name": "Label Color / Light / Primary",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "12:2714": {
+    "key": "d9440c74f493f3167253127de92459f7abd8b1a7",
+    "name": "Helper/Label/Large",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "11:20": {
+    "key": "2087fb673eda057f38df0d08a8394ae1b233c99a",
+    "name": "Brand Grey/gray-55",
+    "styleType": "FILL",
+    "remote": true,
+    "description": "Secondary Text\nCaption\n"
+  },
+  "11:22": {
+    "key": "d0d6696207f11f96c0e4c160630a3d726101791a",
+    "name": "Brand Grey/gray-15",
+    "styleType": "FILL",
+    "remote": true,
+    "description": "Title"
+  },
+  "11:24": {
+    "key": "461e644819b4af065c5d3643b049aa7e858abd2d",
+    "name": "Brand Grey/gray-85",
+    "styleType": "FILL",
+    "remote": true,
+    "description": "Border"
+  },
+  "11:122": {
+    "key": "ad09b65811685e4b52c4f7879afd988592930787",
+    "name": "Neutral/dark",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "11:21": {
+    "key": "4fcaaf1a648e285b2ba2f63eb6893644bd2f07f8",
+    "name": "Regular/Body",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "11:123": {
+    "key": "bb4d39e10246e5ba91af39cfadb8c2d09d95376e",
+    "name": "Neutral/white",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "11:133": {
+    "key": "e5894de1e37585e72228585dcd515dd52d4f2997",
+    "name": "Grey/grey200",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "11:135": {
+    "key": "aabeafb83e7f950df43504fb34fc674dbf486bba",
+    "name": "Main/main",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "11:124": {
+    "key": "ba161f83cb52a9f96a98dc590b57b0070ceede77",
+    "name": "Grey/grey500",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "311:1010": {
+    "key": "06da76a791f6d1abe46093ebd7e3b08a718b44c4",
+    "name": "Label Color/Light/Primary",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "311:1014": {
+    "key": "70a2f83ec9eabb0b1f649d64da9cd4137ca62c88",
+    "name": "Callout / Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:1004": {
+    "key": "b1415d0b4e6e0ec49f3a434d1ccaaa79c73e5bc1",
+    "name": "Brand/Headline/Semibold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:1018": {
+    "key": "3ff7f1ba7787b2b9b109e775391d831ae9cbe13e",
+    "name": "Default/SystemBlue/Light",
+    "styleType": "FILL",
+    "remote": true,
+    "description": "Link, CTA"
+  },
+  "311:1023": {
+    "key": "dfeaff8abab2d2038a09223b8abd52a9d0bc1575",
+    "name": "Body/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:1002": {
+    "key": "841a0e1d71229c62439b2b72b9da53373a1af934",
+    "name": "System/Title3/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:1000": {
+    "key": "08f31b6b9ded30ac197d00efb6ec63be93e1b1c3",
+    "name": "Safe Area",
+    "styleType": "GRID",
+    "remote": true,
+    "description": ""
+  },
+  "311:2459": {
+    "key": "7d821c2fce7e21fd989de09ffaa3adfa6b6455a8",
+    "name": "System/Callout/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:2457": {
+    "key": "f9f073932f03cd521b52d3f8f7454eca39e170e5",
+    "name": "System/Title2/Semibold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:2460": {
+    "key": "24a14c450d296c95c5ccbaead7dda77d5c890d57",
+    "name": "System/Headline/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "311:2461": {
+    "key": "8796d03b181335d1b1916377648fee43034e9a24",
+    "name": "System/Body/Semibold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "1:5": {
+    "key": "df0cabf03f982b8dc2b4af9a6a7de5a603c6c5fe",
+    "name": "Label Color/Light/Primary",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "321:529": {
+    "key": "73bcae26201d6a767104e4ed0fd84ba48014f589",
+    "name": "Brand/Caption2/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:532": {
+    "key": "7bcf26c1e1d7f57a5b9628287070ba31a45a64d6",
+    "name": "Brand/Caption1/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:535": {
+    "key": "c865a7eb4fb2b5933858cce6a3cee4dc1ccd7e8d",
+    "name": "Brand/Footnote/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:538": {
+    "key": "5ab6fff58ff1af964596758f99176483474d59a7",
+    "name": "Brand/Subheadline/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:541": {
+    "key": "75e3a6a7dc1611f83f5658f69f78a8babad77d27",
+    "name": "Brand/Callout/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:544": {
+    "key": "555e0479be5d94c22d0cc62efcb98189002b8bcd",
+    "name": "Brand/Body/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:545": {
+    "key": "ed37109bb8045e98e5931a0a78d58a0457d6ea2a",
+    "name": "Brand/Headline/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:548": {
+    "key": "8e39b9f8270b7ef6e5d89f7ad0f363071f875d72",
+    "name": "Brand/Title3/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:551": {
+    "key": "0bf579d31e65d99e85bb0d66243c9abd6bf1c2e3",
+    "name": "Brand/Title2/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:554": {
+    "key": "402f3a7c9d786c88ede4e582191636058f397449",
+    "name": "Brand/Title1/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:557": {
+    "key": "5ff3e74c46a83b9b9f058c4a4269012b14148a6a",
+    "name": "Brand/LargeTitle/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:559": {
+    "key": "19c4df4dcaa965567ddf949e26d7a62b8457772b",
+    "name": "Brand/Caption2/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:560": {
+    "key": "70d6753e7251b30cd1e227107867d1bca3a838f4",
+    "name": "Brand/Caption1/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:561": {
+    "key": "ade139ceae4074b2a21ffa01db024d5d5a96ccd5",
+    "name": "Brand/Footnote/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:562": {
+    "key": "92890a625e3d104aa62bc1d20b1e7195848067c9",
+    "name": "Brand/Subheadline/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:563": {
+    "key": "1e6b818da4003fe3fd250bd242c05a758aaa0742",
+    "name": "Brand/Callout/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:564": {
+    "key": "44149ff670a259992b47741671330d108e97358b",
+    "name": "Brand/Body/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:565": {
+    "key": "87a0444aeccfa07adde4c2c64885fb9d27019f82",
+    "name": "Brand/Headline/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:566": {
+    "key": "cef6cbc4a721b2d599f97e08cf5bd4bc3d102dde",
+    "name": "Brand/Title3/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:567": {
+    "key": "9ab0e25480b04d40f9dab8ce6d7771a8556e1040",
+    "name": "Brand/Title2/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:568": {
+    "key": "1a8074ec98a43c32811ea91d5b58ae919ac03f33",
+    "name": "Brand/Title1/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:569": {
+    "key": "85ee979f265f9399fc99cbfd44bc85d905e8dacd",
+    "name": "Brand/LargeTitle/Light",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:571": {
+    "key": "dee30fb9d394c5e209cd882657ee5d135f508ebd",
+    "name": "Brand/Caption2/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:572": {
+    "key": "548af3fae573e2a4881c544c568eb96b84fcb9a0",
+    "name": "Brand/Caption1/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:573": {
+    "key": "dfb1e2ec8634ead71c4557a18f4478ec5e9d04df",
+    "name": "Brand/Footnote/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:574": {
+    "key": "2ba2ddbf13b278a18683731bf71ec3ac94457d60",
+    "name": "Brand/Subheadline/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:575": {
+    "key": "ac60414f1ddde3993f3dc4e492e13825cb76cdbe",
+    "name": "Brand/Callout/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:576": {
+    "key": "45c019daa33389c5b88f5ca29f2d49b531915d88",
+    "name": "Brand/Body/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:577": {
+    "key": "7fc61b39cf55ed8a7e2bf149b426832bcdf878a6",
+    "name": "Brand/Headline/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:578": {
+    "key": "788fea3cd9d18a2cd6ea3cd072a4f462a12845e3",
+    "name": "Brand/Title3/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:579": {
+    "key": "f41abd872ffc7989fff1deb7739ccad658aff5c8",
+    "name": "Brand/Title2/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:580": {
+    "key": "72d6aa0ba5579522373b63dd6f91b09e5360b2db",
+    "name": "Brand/Title1/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:581": {
+    "key": "eaae26aa865dd6ea3bf8c4109e06ec6cc3d1abd0",
+    "name": "Brand/LargeTitle/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:583": {
+    "key": "0741a0ac3e1078364ce6f983d5ca92453a900d3e",
+    "name": "Brand/Caption2/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:584": {
+    "key": "46d09d49ca18b96df69415bbf2cde199bcd3b0d7",
+    "name": "Brand/Caption1/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:585": {
+    "key": "dbdcbee987a56027c17d0817bf401dc49cbfe287",
+    "name": "Brand/Footnote/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:586": {
+    "key": "a925356f0cbc9a900b47921c8216c2d7a7ceabe3",
+    "name": "Brand/Subheadline/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:587": {
+    "key": "9befbfbf41fc1d18f5d5ba466d82b0ba7350a8fb",
+    "name": "Brand/Callout/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:588": {
+    "key": "e2cde641892d3ca5e189955d231817bc2d9d5f2d",
+    "name": "Brand/Body/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:589": {
+    "key": "065945f3456db0ada0f2f913034d29ae6b660139",
+    "name": "Brand/Headline/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:590": {
+    "key": "ebed93c74069141e66d5d1388af76fbdeb425fcc",
+    "name": "Brand/Title3/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:591": {
+    "key": "29b58f5da876c393cbd9f2984de5b31c15184c05",
+    "name": "Brand/Title2/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:592": {
+    "key": "e944d603bffc8a828173a6a507146ad24d55532c",
+    "name": "Brand/Title1/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:593": {
+    "key": "72bbd0f9006ba8693f1b30b44f2852f0c414ed8f",
+    "name": "Brand/LargeTitle/Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "321:594": {
+    "key": "24e6cada8ea7354c56fb5dbacec4930b8a6b1d74",
+    "name": "Brand/LargeTitle/Regular",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "12:2584": {
+    "key": "2e074e1ec101876774ecb46199d418b212ba615e",
+    "name": "System/Light/systemRed",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2583": {
+    "key": "304bd95c995d08c1eb556c206aa519f6e53a94cf",
+    "name": "System/Light/systemOrange",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2582": {
+    "key": "95ee7cd8457870a3c367aae849dc7b8981748d8d",
+    "name": "System/Light/systemYellow",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2581": {
+    "key": "6d4cf6ebacd6fa9b7da6b642c69197bd02066c75",
+    "name": "System/Light/systemGreen",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2580": {
+    "key": "e58b05f149c4869e9c9e5f39d1d4c25ce2acf1fc",
+    "name": "System/Light/systemMint",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2579": {
+    "key": "ef7701d061fe8c25c4b008bac851f243b6d1ac84",
+    "name": "System/Light/systemTeal",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2578": {
+    "key": "5c58271a92de4757777c5f8c2d456286f8da8d88",
+    "name": "System/Light/systemCyan",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2577": {
+    "key": "c73349cf3f8883fa9ce99dd02cc49dce01bd5c8d",
+    "name": "System/Light/systemBlue",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2576": {
+    "key": "17f46df6e0d4c2500ac1f5e2e98b494d6db9adae",
+    "name": "System/Light/systemIndigo",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2575": {
+    "key": "004e88879fe55608e3bb7b9a09afd7b718f64e0d",
+    "name": "System/Light/systemPurple",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2574": {
+    "key": "bd1c38fcd4dff9c29d83df710cc7b9a138b412bb",
+    "name": "System/Light/systemPink",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2573": {
+    "key": "a23337a21331e9c581b50123d06ba71338eaa373",
+    "name": "System/Light/systemBrown",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2572": {
+    "key": "1be07b57e0ba9ec5aaabfaae62a37cc40302f437",
+    "name": "Brand/Primary",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2571": {
+    "key": "1d1af3307ac8cd98fe879e667b3b51137d689a3b",
+    "name": "Brand/Secondary",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2570": {
+    "key": "0d39278a4b9fc8409407d82edd59c4f61aa3f041",
+    "name": "Brand/Tertiary",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2569": {
+    "key": "d32b93179e7f4276850b7960b24f850bcf99ea34",
+    "name": "System/Light/Gray/systemGray4",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2568": {
+    "key": "a9e2fc4802f431be948154d21c1a803de815fb9f",
+    "name": "System/Light/Gray/systemGray5",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2567": {
+    "key": "2fa5ee73e424db50979d059a3bdec33cefbe697e",
+    "name": "System/Light/Gray/systemGray6",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2566": {
+    "key": "f98a564ef6b894de62648f85ec6f8783191120d3",
+    "name": "System/Dark/systemRed",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2565": {
+    "key": "d59bd1732311a91a1199d86fed8b93ebffbe75f8",
+    "name": "System/Dark/systemOrange",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2564": {
+    "key": "6886351e89690aa6a2aee9acf57bab5939b8ada6",
+    "name": "System/Dark/systemYellow",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2563": {
+    "key": "c718791e0c72f14d150f55136c334354557f0e37",
+    "name": "System/Dark/systemGreen",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2562": {
+    "key": "e5449aed211fe5097257583dfb12dd9137e63ea4",
+    "name": "System/Dark/systemMint",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2561": {
+    "key": "a0de380f5d25616ddf096d47f5020f3608597656",
+    "name": "System/Dark/systemTeal",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2560": {
+    "key": "3261de30b41fcce8c0afe3bb8e12255627f2ab09",
+    "name": "System/Dark/systemCyan",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2559": {
+    "key": "61cf41641b1edaff0a1b7ae3815748e9b3ea5830",
+    "name": "System/Dark/systemBlue",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2558": {
+    "key": "9f67e656d5ebdddeaba15c4267e716f457bd6907",
+    "name": "System/Dark/systemIndigo",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2557": {
+    "key": "a3ce63dd8d45fe799d2a4543b5a0781e210aa7eb",
+    "name": "System/Dark/systemPurple",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2556": {
+    "key": "e2fb6390a0fdca81bc7e683a9eadc0b2edc3e92e",
+    "name": "System/Dark/systemPink",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2555": {
+    "key": "4cd49ea96c61a7bd0fa7c0870ec739968d8ef1ff",
+    "name": "System/Dark/systemBrown",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2554": {
+    "key": "4170df462fe3470b99980c2187c6a21d34477634",
+    "name": "System/Dark/Gray/systemGray",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2553": {
+    "key": "3b929afc4249b9053ae9c7c3f82dcb3ac092bd22",
+    "name": "System/Dark/Gray/systemGray2",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2552": {
+    "key": "9d61ebd9d2ac6e00ecd01d98095e6e00d46bab73",
+    "name": "System/Dark/Gray/systemGray3",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2551": {
+    "key": "35361b157564e5148b87c287913026636959a1de",
+    "name": "System/Dark/Gray/systemGray4",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2550": {
+    "key": "45ef2c489379cec5b638e4e7900ccc15438f6c13",
+    "name": "System/Dark/Gray/systemGray5",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "12:2549": {
+    "key": "551e28f4117715d0a73e248b3ec7a728cb3ec2ac",
+    "name": "System/Dark/Gray/systemGray6",
+    "styleType": "FILL",
+    "remote": false,
+    "description": ""
+  },
+  "331:309": {
+    "key": "b8e19ae3c56dbb2122e0e196644ff40669f239c5",
+    "name": "Brand/LargeTitle/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:310": {
+    "key": "d240f9213f0118f780676025b4ef2b31e1ce5baa",
+    "name": "Brand/Title1/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:311": {
+    "key": "1a047c39139464858312f50cc4aa3788747ea7f6",
+    "name": "Brand/Title2/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:312": {
+    "key": "50c30dc581b57293bad85e69e6907ad2be79b97d",
+    "name": "Brand/Title3/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:313": {
+    "key": "f49c2c43a47e7231b32d92817b7ddbbdff3e100c",
+    "name": "Brand/Headline/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:314": {
+    "key": "72df3e179f85094b44fa8debdb266da2e1ea427d",
+    "name": "Brand/Body/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:315": {
+    "key": "16a5ba5b4061791d8a68faca676dc827a27ba818",
+    "name": "Brand/Callout/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:316": {
+    "key": "e5ac3b087571710d61edaaa0f0a0eee6cb1187db",
+    "name": "Brand/Subheadline/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:317": {
+    "key": "5e6ef01c00028e7d75b1f8654564533d4a4d89b2",
+    "name": "Brand/Footnote/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:318": {
+    "key": "8b0872cba5049f292d73e45804585737a6e71525",
+    "name": "Brand/Caption1/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:319": {
+    "key": "ef4d46691c59eb31594871c8c1b8615d97df29c7",
+    "name": "Brand/Caption2/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:320": {
+    "key": "006062714b1ad58e3befd32ce5e71654d990f52d",
+    "name": "Brand/LargeTitle/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:321": {
+    "key": "ca2c20d337b9ea5b088010d4be55563f94e78494",
+    "name": "Brand/Title1/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:322": {
+    "key": "a4d6dca54e6aaff52e7b3ee7db9d6b053b6ccda0",
+    "name": "Brand/Title2/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:323": {
+    "key": "cf5ecbd424a39be953f298f06cc68267ce7c7981",
+    "name": "Brand/Title3/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:324": {
+    "key": "eed9485129a009f9eae5ada3b4571194d2851fc0",
+    "name": "Brand/Headline/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:325": {
+    "key": "463ae4ae8beebcb7e9bd7eacf77c05f545778f2a",
+    "name": "Brand/Body/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:326": {
+    "key": "3abbef5cca24565ae72376f0a2d2fc35a52dfbd5",
+    "name": "Brand/Callout/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:327": {
+    "key": "668b66f624da66304fc3f2a93a48d8c46782a08a",
+    "name": "Brand/Subheadline/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:328": {
+    "key": "de294962ec39d17e0f0e4c4b47598a5647d41c1c",
+    "name": "Brand/Footnote/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:329": {
+    "key": "181502a7dd63aaa8254f7ff5e6d1eea235df9715",
+    "name": "Brand/Caption1/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:330": {
+    "key": "79f6f8bce1b9f4ecac743ec4895b4299eb2df660",
+    "name": "Brand/Caption2/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:331": {
+    "key": "a454ea0dda7d87c1530dbadfb692aa76f16467d1",
+    "name": "Brand/LargeTitle/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:332": {
+    "key": "48000c1469705c4ce1898fbe4930aa0e6ddddf33",
+    "name": "Brand/Title1/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:333": {
+    "key": "0cd70868fad3890f7622d816009ad1d0d3c7e56e",
+    "name": "Brand/Title2/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:334": {
+    "key": "0c1988229de1376861c2f89265b9ee465d64ac47",
+    "name": "Brand/Title3/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:335": {
+    "key": "ff24570c2aa75487d4f9e685a5561e74042ff481",
+    "name": "Brand/Headline/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:336": {
+    "key": "e01d617ca43dc684aa35588e6995e45368499fdf",
+    "name": "Brand/Body/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:337": {
+    "key": "543b5e90e3c4c0f7e826e0804b8fd448640f9a92",
+    "name": "Brand/Callout/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:338": {
+    "key": "df026d4d88c7ccf78fae569018b63822de1184b5",
+    "name": "Brand/Subheadline/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:339": {
+    "key": "d7aeba19046a081a7b5ba0fa94b072b061908993",
+    "name": "Brand/Footnote/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:340": {
+    "key": "9da58e1dac820e4837b1efb8e1511099af00f6dc",
+    "name": "Brand/Caption1/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:341": {
+    "key": "4c1de3d0b20376605181bf0d725a53b79585aafc",
+    "name": "Brand/Caption2/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:342": {
+    "key": "cf757cb1acd5dd0d6d6ef42f5833a8d986874f11",
+    "name": "Brand/LargeTitle/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:343": {
+    "key": "7af5ee4e4e29070422e9111eb3b280199ae28784",
+    "name": "Brand/Title1/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:344": {
+    "key": "d679e84a6df1215cabf8af8526646e2fbefc05c8",
+    "name": "Brand/Title2/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:345": {
+    "key": "d48bdc1b92055d0c113e6a8e2ac244364203e869",
+    "name": "Brand/Title3/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:346": {
+    "key": "c6da9f83ce33b58056ca744e7767960fde77bccd",
+    "name": "Brand/Headline/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:347": {
+    "key": "5414b75a058582b19d0c2eab6bab8b8fcfa8a7b6",
+    "name": "Brand/Body/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:348": {
+    "key": "dcf8f787896c9bd413a7098938e0a899a25f6f27",
+    "name": "Brand/Callout/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:349": {
+    "key": "64cdf4d8e072918ce8291652a2230903f923e349",
+    "name": "Brand/Subheadline/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:350": {
+    "key": "2bcc8fbd016f39bc97972c5151ba9fa746075375",
+    "name": "Brand/Footnote/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:351": {
+    "key": "ce293b6d29c385a461b7d441765945e2d86856fa",
+    "name": "Brand/Caption1/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:352": {
+    "key": "b957da1b40b9e1c80778087832fe40ef54936cd0",
+    "name": "Brand/Caption2/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:353": {
+    "key": "3b000bf596b98f0eb98d7625ba298994d6f0e963",
+    "name": "System/LargeTitle/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:354": {
+    "key": "10ee5862600d6a8634ae8bd3108e5c68362237f4",
+    "name": "System/Title1/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:355": {
+    "key": "389b9d5a27ebcc943055054dc3956373fa23ea73",
+    "name": "System/Title2/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:356": {
+    "key": "b9f0fcae1d28f804f6e211c29b83924c91529469",
+    "name": "System/Title3/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:357": {
+    "key": "e8dde20a0fc4e63962558d1825fe078719f3f4ff",
+    "name": "System/Headline/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:358": {
+    "key": "8e1baa451ab8f6ae6e42fe5f6fed8cbc528932fe",
+    "name": "System/Body/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:359": {
+    "key": "027098dc24a49e0c7b31f87a49db08fcc59a2422",
+    "name": "System/Callout/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:360": {
+    "key": "ee7ab2169eba7d669bee8648e3ea7c375de7bd05",
+    "name": "System/Subheadline/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:361": {
+    "key": "8f15a3c4e36dab1fb205ee68fccd95d832c1dd8b",
+    "name": "System/Footnote/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:362": {
+    "key": "6fb520060d1708daa3e0c671aaf2b219ee53e4c6",
+    "name": "System/Caption1/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:363": {
+    "key": "060df49867b0ded21937dbef62b5fb9425683df0",
+    "name": "System/Caption2/Light",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:364": {
+    "key": "ec015b3f32bb47809c3fc0b3d3bb8f24cd7281ce",
+    "name": "System/LargeTitle/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:365": {
+    "key": "540812f42518ea989eaf990522f4262e321bf670",
+    "name": "System/Title1/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:366": {
+    "key": "acee48f708119514cf974b795a0d0c3a2dee3292",
+    "name": "System/Title2/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:367": {
+    "key": "051bb1e2ba48617b4e304ed9dbd45806d7d90e69",
+    "name": "System/Title3/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:368": {
+    "key": "7962798099dff7ba182297f38113f290b2ff6648",
+    "name": "System/Headline/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:369": {
+    "key": "2a9d14a0303799400a2b161843c591b54f71f190",
+    "name": "System/Body/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:370": {
+    "key": "bce71de934a1940ada6cdbbe3f504f566eca2155",
+    "name": "System/Callout/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:371": {
+    "key": "db7c4a35f646262aacff5984bc71d70977c6a85b",
+    "name": "System/Subheadline/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:372": {
+    "key": "a74900dc79745a059e816874272f0bd20b1825cb",
+    "name": "System/Footnote/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:373": {
+    "key": "c1834057c58bff9510bb0e79942f2a2f62284308",
+    "name": "System/Caption1/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:374": {
+    "key": "079ca3c86c00b184de7e160d552c4f2c10cf9b1f",
+    "name": "System/Caption2/Regular",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:375": {
+    "key": "1c30eeab3bc7ca05ab963b00771a0eb12d50d62e",
+    "name": "System/LargeTitle/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:376": {
+    "key": "7fb0cb9344998684b4825ba14710c3f99e66fb65",
+    "name": "System/Title1/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:377": {
+    "key": "0e8d491a62bb5c24444c16cb1d739c89a5772f1a",
+    "name": "System/Title2/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:378": {
+    "key": "189980cf5309680c5ed82db0c8459fa1e44a3e58",
+    "name": "System/Title3/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:379": {
+    "key": "6505a5eb95d07c8c40e76ad8f404a211a63215d0",
+    "name": "System/Headline/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:380": {
+    "key": "f3fc90f5cc0a703196796b394b13b6612068e5b9",
+    "name": "System/Body/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:381": {
+    "key": "ca71a1f7057da79faf9d5817d538fe7c90743fbe",
+    "name": "System/Callout/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:382": {
+    "key": "60f0bed33d2d10a7706db1ae7280a91ba3af00f2",
+    "name": "System/Subheadline/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:383": {
+    "key": "e7f920575160b20db74c20b546ffcf0aeaa6ad94",
+    "name": "System/Footnote/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:384": {
+    "key": "3b73729bdb7ac6e65424f2437f19f5b0e1fa7ebc",
+    "name": "System/Caption1/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:385": {
+    "key": "781382405fd70e9728d16f98ed9e8c3ea6a01a49",
+    "name": "System/Caption2/Medium",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:386": {
+    "key": "b212e57a4d972b2d6970b6034be291e8b4fbd611",
+    "name": "System/LargeTitle/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:387": {
+    "key": "7d084b826b09658032477946babce6bf833463d0",
+    "name": "System/Title1/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:388": {
+    "key": "bdfbd3f5ff383c5510b32e4c822cdd99bd5bb120",
+    "name": "System/Title2/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:389": {
+    "key": "cdbccfddd83ea1517251c8d906d5e885fc34b641",
+    "name": "System/Title3/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:390": {
+    "key": "847f1b64f53cd5f7def44d1598557d6d11ef37dc",
+    "name": "System/Headline/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:391": {
+    "key": "3ad1569a8a7532d95c8f5390c03c5d02585bf113",
+    "name": "System/Body/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:392": {
+    "key": "d7e88d7e3967d9f3bad6d2d541696d5841545a55",
+    "name": "System/Callout/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:393": {
+    "key": "ac0df4b9b77f1120fa19276934517072c8595e9d",
+    "name": "System/Subheadline/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:394": {
+    "key": "7b1e7fe3894ed36fd0131000cb6ed3d365393d2c",
+    "name": "System/Footnote/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:395": {
+    "key": "f5c5259eb005d435636c3f57c168c0ee3bd7517a",
+    "name": "System/Caption1/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "331:396": {
+    "key": "b7b7023f53871381bdf3bf655d65ba81d4ffc80a",
+    "name": "System/Caption2/Black",
+    "styleType": "TEXT",
+    "remote": false,
+    "description": ""
+  },
+  "3501:1554": {
+    "key": "1ddeb73b5fb0401c691700d25c74fa8aee1cd324",
+    "name": "Heading/Desktop/H4",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1569": {
+    "key": "5155a8a79838fd7f34caa7c6639aaf745e5cb4de",
+    "name": "Text/Regular/Medium",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1574": {
+    "key": "d65774758aab004dd89183487ee0f2c7934e0924",
+    "name": "Heading/Desktop/H5",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1576": {
+    "key": "990dd25aca80ce6f06aa9144738f7b13bd8f6312",
+    "name": "Text/Regular/Normal",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1593": {
+    "key": "bb843a8bd05aa8ebca2643a4444ce13ded29cec9",
+    "name": "Text/Small/Semi Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1595": {
+    "key": "24b67e64f385792a5eef1e2bdc90597e97276061",
+    "name": "Text/Medium/Semi Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1596": {
+    "key": "d04e01f2e0764ab2c9a8afbe1ce9d7a42084a269",
+    "name": "White",
+    "styleType": "FILL",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1599": {
+    "key": "75123fef85613878117ab79bf0877e33ef332d22",
+    "name": "Text/Regular/Semi Bold",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  },
+  "3501:1600": {
+    "key": "ee5b78108e68b633ad512ee92aa82d00a6139ff6",
+    "name": "Text/Small/Normal",
+    "styleType": "TEXT",
+    "remote": true,
+    "description": ""
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tothienbao6a0/figma-mcp-server": "^0.6.20",
+    "dotenv": "^16.5.0",
+    "node-fetch": "^3.3.2"
+  }
+}

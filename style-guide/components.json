@@ -1,0 +1,1280 @@
+{
+  "11:41": {
+    "key": "0e0cc0cce67af4fc46b1381dbeedce145fb2f30d",
+    "name": "header",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:125": {
+    "key": "4e28564c60a6e8a0063f34eec3e48780ea4b1a3f",
+    "name": "header",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "11:95": {
+    "key": "8c1552f0bf6c96f19a06454539863cf8c8b8e4e6",
+    "name": "Line=Dash",
+    "description": "",
+    "remote": true,
+    "componentSetId": "11:90",
+    "documentationLinks": []
+  },
+  "11:99": {
+    "key": "927700ed57d4e93ed92f82eb6a7fb2c9ef962b0b",
+    "name": "Style/ Outline/ Red",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "11:101": {
+    "key": "34642331ae415de2530b78c03e60694aee6dc0cb",
+    "name": "Style/ Circle/ Outline/ Red",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "11:106": {
+    "key": "44b1a84ce19cbcc42468102aea80afb33e3238d4",
+    "name": "Line=White",
+    "description": "",
+    "remote": true,
+    "componentSetId": "11:103",
+    "documentationLinks": []
+  },
+  "11:108": {
+    "key": "528cab9b0f6d5308da3ef2e943fec8f95a71bd31",
+    "name": "Window",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "11:119": {
+    "key": "4ccd21ec8df460b28a59491020783d6be5ce07fd",
+    "name": "Título",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "311:129": {
+    "key": "5a95aaba5ff590077e011827ec8d85c7c2ebd0bf",
+    "name": "Sticky Note",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "311:306": {
+    "key": "4675de52aeb5c4f8396b45c193edccd2703f2852",
+    "name": "Dark Mode=False, Device=iPhone 14, Type=Default, Modal Stack=False",
+    "description": "",
+    "remote": true,
+    "componentSetId": "311:305",
+    "documentationLinks": []
+  },
+  "311:587": {
+    "key": "f00dabecba3f0fda6fe211efb07afb743be3b983",
+    "name": "Dark Mode=False, Dynamic Island=False, Dyn. Isl. Size=N/A",
+    "description": "",
+    "remote": true,
+    "componentSetId": "311:586",
+    "documentationLinks": []
+  },
+  "311:742": {
+    "key": "34d56bf3b29b048f25ed93b5dfacf02654f4348e",
+    "name": "Dark Mode=False, Type=Default",
+    "description": "",
+    "remote": true,
+    "componentSetId": "311:741",
+    "documentationLinks": []
+  },
+  "311:763": {
+    "key": "7206dead66f6c55b6574816ecb6dec636e95ed2c",
+    "name": "Dark Mode=False, Charge=100%, Charging=False, Percentage=False",
+    "description": "",
+    "remote": true,
+    "componentSetId": "311:762",
+    "documentationLinks": []
+  },
+  "311:840": {
+    "key": "4182ea6551985bd9fac8a5b4c186a29be391eeb9",
+    "name": "Dark Mode=False",
+    "description": "",
+    "remote": true,
+    "componentSetId": "311:839",
+    "documentationLinks": []
+  },
+  "311:2445": {
+    "key": "96632f593ba6d5441600586718e2237f2a29f936",
+    "name": "Title",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "311:2450": {
+    "key": "1560879e06f7c99524db703c77347025baddf67f",
+    "name": "product-list",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "311:170": {
+    "key": "5a77aabee4fb85e167de41773a533139a2ae356f",
+    "name": "Goal",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:174": {
+    "key": "2521daed63f0f276dda1a37476294ce796144f85",
+    "name": "Start",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:177": {
+    "key": "5be839bea934892537c24ad0d9e13f2dfba779ac",
+    "name": "Decision",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:182": {
+    "key": "faf30d9269c4eb5a120d6b59b468849b61cde69b",
+    "name": "Positive",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:186": {
+    "key": "9b013b5a8b821259d9e94d85577d78c4cf2bf95a",
+    "name": "Negative",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:172": {
+    "key": "b85791aabae4ef38d4b4a67e8f86a731b5e89005",
+    "name": "Action",
+    "description": "",
+    "remote": false,
+    "documentationLinks": []
+  },
+  "311:3948": {
+    "key": "48be02c3b57f27777dee73045acf363341d7e727",
+    "name": "Action",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "311:2871": {
+    "key": "61990d5bd7571fcaf058e9e542f520868019bd0c",
+    "name": "header",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "311:2875": {
+    "key": "e4f9a9fbf74902f566e3226d1b50abfc5ebea690",
+    "name": "Size",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1609": {
+    "key": "8bd9d905fffe308eacd342f8d874c30b61c5ffa6",
+    "name": "Style=Primary, Small=False, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1611": {
+    "key": "19d5e008b7ec730641718c7d0edf3fde8851b249",
+    "name": "Style=Primary, Small=False, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1560": {
+    "key": "e0b2461d267689a4c0114b321093a50d9409d094",
+    "name": "Icon / Relume",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1614": {
+    "key": "29191e358ed6c5b330168f3d79c35cd3f9dbc5cd",
+    "name": "Style=Primary, Small=False, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1617": {
+    "key": "393f07951cd4540515bd9761bbb8243e1dd1a895",
+    "name": "Style=Primary, Small=False, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1619": {
+    "key": "8930f34e69cc34ec3f76f21e7cad3d81c413a1b2",
+    "name": "Style=Primary, Small=True, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1621": {
+    "key": "b6a6a05d9f4ad820c6e3c951b1c5eb0dd385663b",
+    "name": "Style=Primary, Small=True, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1624": {
+    "key": "c676c5484354c24de2c3f54030d85b089e80f658",
+    "name": "Style=Primary, Small=True, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1627": {
+    "key": "895d04daf3e3e0269e811062a9f37c75b88ede00",
+    "name": "Style=Primary, Small=True, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1629": {
+    "key": "baf424e52cbd1824271cd9fe2ec40e3f6f12c7e9",
+    "name": "Style=Secondary, Small=False, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1631": {
+    "key": "786c8baecb2280a8362c9183b1a1805a464bb209",
+    "name": "Style=Secondary, Small=False, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1634": {
+    "key": "98f730ff4ad5581c8101aa4a959dba019fd9f322",
+    "name": "Style=Secondary, Small=False, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1637": {
+    "key": "fcd9f6d8e087186785f598940c57651949b64cb1",
+    "name": "Style=Secondary, Small=False, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1639": {
+    "key": "687a9adae0748e8408880169dec2ea61393b3732",
+    "name": "Style=Secondary, Small=True, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1641": {
+    "key": "2b5142a618d9359ba1ee0ab41d55ed859017b03c",
+    "name": "Style=Secondary, Small=True, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1644": {
+    "key": "363aeb46bd51f4beb49e04eaeefa919f172dbbd6",
+    "name": "Style=Secondary, Small=True, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1647": {
+    "key": "cbd09eba77732030453d6e814827db10d4281ad2",
+    "name": "Style=Secondary, Small=True, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1649": {
+    "key": "94b61629b8c84e10ae5960e557c2876ea2b92184",
+    "name": "Style=Tertiary, Small=False, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1651": {
+    "key": "47ac8a937058e9558f8a464f79e361b0f1856673",
+    "name": "Style=Tertiary, Small=False, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1654": {
+    "key": "43e71403c38d4a0e93c7f153345665d5d225d335",
+    "name": "Style=Tertiary, Small=False, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1657": {
+    "key": "d5ce403e2bc56201a19828b0ab6763d59783e0cd",
+    "name": "Style=Tertiary, Small=False, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1659": {
+    "key": "fec021118e604cd7373c8e352ed39a33d1a2c689",
+    "name": "Style=Tertiary, Small=True, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1661": {
+    "key": "ddeb8ba09ab501157b8588d47caf254d812c7aae",
+    "name": "Style=Tertiary, Small=True, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1664": {
+    "key": "7110bb20ec57f61ab2b7c5fc69af92ba0cccaaf5",
+    "name": "Style=Tertiary, Small=True, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1667": {
+    "key": "c4c6073bd7519fc6eed6ebd0ee692057ce58e036",
+    "name": "Style=Tertiary, Small=True, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1669": {
+    "key": "90da60ee72a66d21cea145087306f3cc51136164",
+    "name": "Style=Link, Small=False, Alternate=False, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1671": {
+    "key": "fab4f175a735488ee18b313f2b41f5aaa66a1a08",
+    "name": "Style=Link, Small=False, Alternate=False, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1674": {
+    "key": "4cc1ccb766c31bc289ca0ee1d5585e9b6c46b142",
+    "name": "Style=Link, Small=False, Alternate=False, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1677": {
+    "key": "a1b15774942cd68481e302ff7f0fda8fa6a678f0",
+    "name": "Style=Link, Small=False, Alternate=False, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1679": {
+    "key": "04cf68252138bf35396448ae679e8062b102ae91",
+    "name": "Style=Primary, Small=False, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1681": {
+    "key": "c377a050e607f4f44f32ab8bcbd0a56fc964e4a4",
+    "name": "Style=Primary, Small=False, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1684": {
+    "key": "0d223f23415d17f5df2a8eea6e8b5c70ce0a871d",
+    "name": "Style=Primary, Small=False, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1687": {
+    "key": "12cc9d556cd3df7f6de137fc1b7bd20116c4b6a7",
+    "name": "Style=Primary, Small=False, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1689": {
+    "key": "38a6d73fbe824c2a13bad8db921dc569e38b7607",
+    "name": "Style=Primary, Small=True, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1691": {
+    "key": "f8e26f347a0d41356edb1e782593dd0b9e0da6d4",
+    "name": "Style=Primary, Small=True, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1694": {
+    "key": "ae62241a0c815c83752108405eb72bb658d185d7",
+    "name": "Style=Primary, Small=True, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1697": {
+    "key": "e0463d2f2daa3dcb8b2d617aaf6201c581f016f6",
+    "name": "Style=Primary, Small=True, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1699": {
+    "key": "7d66bdcb5f8795ad58cf211dbe6b6160177b4080",
+    "name": "Style=Secondary, Small=False, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1701": {
+    "key": "2c0b001665a802a845ed4035c335930126b66a9c",
+    "name": "Style=Secondary, Small=False, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1704": {
+    "key": "a8f1d9033ffe357a5eb6edbb137d45925205cee6",
+    "name": "Style=Secondary, Small=False, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1707": {
+    "key": "0f3357580366226c08c38a2a685e108643896093",
+    "name": "Style=Secondary, Small=False, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1709": {
+    "key": "1b3ab15467b495180b0fa7746868cd827aef72fc",
+    "name": "Style=Secondary, Small=True, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1711": {
+    "key": "3f5e3ca8de662c0e798c9356c3613bc9fe1acf24",
+    "name": "Style=Secondary, Small=True, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1714": {
+    "key": "95b0daffe646d75d82ce8c955753afaf466176ea",
+    "name": "Style=Secondary, Small=True, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1717": {
+    "key": "bc8e283d1a9f1512c91f7dfb40c713ec6ed26c0f",
+    "name": "Style=Secondary, Small=True, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1719": {
+    "key": "b35f814aaa40e8c06c754a119e66c3fcc0d6a48e",
+    "name": "Style=Tertiary, Small=False, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1721": {
+    "key": "6bb39b3897e7c9d9a4e74bf03c17d2037635730e",
+    "name": "Style=Tertiary, Small=False, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1724": {
+    "key": "96378716b27672c8f383ea4c332ed96ac83044cc",
+    "name": "Style=Tertiary, Small=False, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1727": {
+    "key": "8e1f3e22cef34987aeb5c4865d2b811cbab22752",
+    "name": "Style=Tertiary, Small=False, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1729": {
+    "key": "ca0a00483c58c6af521c51a78ed8f58c033bc5b1",
+    "name": "Style=Tertiary, Small=True, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1731": {
+    "key": "2d89e4b8287cd39b85c37be746316b167ad20109",
+    "name": "Style=Tertiary, Small=True, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1734": {
+    "key": "21233524a456f4abff6981b6e5f250706f81faae",
+    "name": "Style=Tertiary, Small=True, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1737": {
+    "key": "72d99152b12a28638fe55128282efd5f9666864e",
+    "name": "Style=Tertiary, Small=True, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1739": {
+    "key": "10227301675ef1637cdc4c82d2accb4e97cec440",
+    "name": "Style=Link, Small=False, Alternate=True, Icon position=No icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1741": {
+    "key": "96bad6818308ea0f14129e3c91930f966b7bfbdb",
+    "name": "Style=Link, Small=False, Alternate=True, Icon position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1744": {
+    "key": "37f664e9595a44c6c1cd4da0f7f736823ccd3003",
+    "name": "Style=Link, Small=False, Alternate=True, Icon position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1747": {
+    "key": "84bc94e6c67efcb72542065480c90deba22ef353",
+    "name": "Style=Link, Small=False, Alternate=True, Icon position=Only",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1608",
+    "documentationLinks": []
+  },
+  "3501:1754": {
+    "key": "54e931af3506228e6cd85bd6d7783edb40aa0758",
+    "name": "Type=Default, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1756": {
+    "key": "10319fa9cc2c1e185eda132235cdb2a69481a608",
+    "name": "Type=Default, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1758": {
+    "key": "5e0b44b265b8585f8c67c2f2b4dcd3d5fed5ed28",
+    "name": "Type=Right icon, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1579": {
+    "key": "717d74c71538370653444b0df63b37a04fc9cda3",
+    "name": "Button/Icon/help-circle",
+    "description": "Assistance\nInformation\nSupport\nQuestion mark\nGuidance\nFAQ (Frequently Asked Questions)\nInformation center\nCustomer support\nUser manual\nOnline help\nTooltip\nAccessibility",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1761": {
+    "key": "ccb61c1704aa89ee261af746d3391537564836af",
+    "name": "Type=Right icon, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1764": {
+    "key": "aff7e1656ae3951c21ca58a6621edf5b2d4c72d2",
+    "name": "Type=Two icons, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1581": {
+    "key": "13c65aa0b34bbcbec32fc50f7300e5e214d14409",
+    "name": "Icon / credit-card",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1768": {
+    "key": "448ad7392ac8c022fd702dc217411e7d37f53dab",
+    "name": "Type=Two icons, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1772": {
+    "key": "606232b635a47dfa93584ce24f98c7309403cadf",
+    "name": "Type=Left icon, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1583": {
+    "key": "d22f2f1769da002c5c71f6ecdd2a85276b042c5f",
+    "name": "Icon / search",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1775": {
+    "key": "e19ec5bea5e7f98971361abf6be6dedb68d077e2",
+    "name": "Type=Left icon, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1778": {
+    "key": "8b7522f17ca24e1117cbf6b2e2a2e2f074540b0b",
+    "name": "Type=Input with dropdown, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1585": {
+    "key": "7539676908b2a683485caa4f38cef637454784bd",
+    "name": "Icon / chevron-down",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1785": {
+    "key": "04d8b769029e26ffc4fbdb774cb326bf968d82e0",
+    "name": "Type=Input with dropdown, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1792": {
+    "key": "9e766202000f2c01477c3e50a1367be27deb4378",
+    "name": "Type=Website input, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1798": {
+    "key": "38c9204a0e156775754eb557b79898ed85071477",
+    "name": "Type=Website input, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1753",
+    "documentationLinks": []
+  },
+  "3501:1807": {
+    "key": "60e74dfdb3df802289586469e1a682849b44e537",
+    "name": "Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1806",
+    "documentationLinks": []
+  },
+  "3501:1811": {
+    "key": "3a5e708abbfaa3a6c6565a471d435335e72a5169",
+    "name": "Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1806",
+    "documentationLinks": []
+  },
+  "3501:1818": {
+    "key": "aaee5b0d309a6494261a7ef538dca1cb2cc55041",
+    "name": "Type=Default, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1817",
+    "documentationLinks": []
+  },
+  "3501:1821": {
+    "key": "a3f7fe871b6c9356013c5a090eb1fb767fe6bdf3",
+    "name": "Type=Default, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1817",
+    "documentationLinks": []
+  },
+  "3501:1824": {
+    "key": "d9a18b36166a2a3281825a6ca1c29ffa84accd94",
+    "name": "Type=Icon, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1817",
+    "documentationLinks": []
+  },
+  "3501:1589": {
+    "key": "8b5e89fdead1da1da6c55057dc0a9cf6034744ef",
+    "name": "Icon / time-five",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1828": {
+    "key": "06cf93eba4653dd78d76777948e5f71c1c75a2fd",
+    "name": "Type=Icon, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1817",
+    "documentationLinks": []
+  },
+  "3501:1835": {
+    "key": "55ce9eb10a7405aa56a9fe902d75053d05c90d70",
+    "name": "Text Only=False, Alternate=False, Icon Position=No Icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1837": {
+    "key": "e7c1fb70010ae99c67db2f03899181dbbd2e1f26",
+    "name": "Text Only=False, Alternate=False, Icon Position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1840": {
+    "key": "da13922dacd6f8675b95b8118dc6b1ff540e61da",
+    "name": "Text Only=False, Alternate=True, Icon Position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1843": {
+    "key": "8d534b7177c10f2791ff427e8ce71f07f34f90f3",
+    "name": "Text Only=False, Alternate=False, Icon Position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1846": {
+    "key": "3757ba5fc077b5a5618b7a2b348d386bd18d8c02",
+    "name": "Text Only=False, Alternate=True, Icon Position=Trailing",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1849": {
+    "key": "f14288da8ae6f1df858ba047ffad4116bfce5ab8",
+    "name": "Text Only=False, Alternate=True, Icon Position=No Icon",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1851": {
+    "key": "6902aac76e67e53381505ecefcc1cf775c9b47da",
+    "name": "Text Only=True, Alternate=False, Icon Position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1853": {
+    "key": "44a7a9d7b6ca9e2c411976382ab5b1e67d22af76",
+    "name": "Text Only=True, Alternate=True, Icon Position=Leading",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1834",
+    "documentationLinks": []
+  },
+  "3501:1858": {
+    "key": "d092ddf9cab6b460586a76c1ccf517860a628eb0",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1857",
+    "documentationLinks": []
+  },
+  "3501:1861": {
+    "key": "48a0314a622245b34264f58e577886479d98c868",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1857",
+    "documentationLinks": []
+  },
+  "3501:1865": {
+    "key": "3df3d441cee65b9902a7350391f12c42783ef0c9",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1857",
+    "documentationLinks": []
+  },
+  "3501:1868": {
+    "key": "d30ef004c34903b110662bf2004a0245b2a404e3",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1857",
+    "documentationLinks": []
+  },
+  "3501:1873": {
+    "key": "aa1864a471d395337a01f744bfff22a9d2c49ad8",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1872",
+    "documentationLinks": []
+  },
+  "3501:1882": {
+    "key": "bee06c21b38fa806b0f9b67406f015d43ac323b5",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1872",
+    "documentationLinks": []
+  },
+  "3501:1891": {
+    "key": "b73e263d7b8c564fdb5e2cc6ff8e88b1082d674e",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1872",
+    "documentationLinks": []
+  },
+  "3501:1900": {
+    "key": "f96d587ad47960d05adecc83c69666c4fe51fc35",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1872",
+    "documentationLinks": []
+  },
+  "3501:1910": {
+    "key": "fd894d8f8155ccc749901c24f80de9985d3c3b70",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1909",
+    "documentationLinks": []
+  },
+  "3501:1912": {
+    "key": "77a10d74d811d859f5d9ed5c4cdd629e870a6836",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1909",
+    "documentationLinks": []
+  },
+  "3501:1914": {
+    "key": "0ce67243a4e630b5eb45e4a65fad3d65592a424d",
+    "name": "Selected=Selected4, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1909",
+    "documentationLinks": []
+  },
+  "3501:1916": {
+    "key": "fdfa42004324c1a0e2d3d54e829d12237512cb5f",
+    "name": "Selected=Selected3, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1909",
+    "documentationLinks": []
+  },
+  "3501:1921": {
+    "key": "ce23696aa5234f7fa07b496efe5283f6e70bf6c7",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1920",
+    "documentationLinks": []
+  },
+  "3501:1924": {
+    "key": "41db2f9ad87f53e82fec71872c8048332e341560",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1920",
+    "documentationLinks": []
+  },
+  "3501:1927": {
+    "key": "554084bc893909767500d680b941c475d49b48dc",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1920",
+    "documentationLinks": []
+  },
+  "3501:1931": {
+    "key": "2a1309eda204e779032ac252035aae03a7476485",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1920",
+    "documentationLinks": []
+  },
+  "3501:1936": {
+    "key": "42c73c2a18ea73b0470dc65da6fa9cd367431c94",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1935",
+    "documentationLinks": []
+  },
+  "3501:1945": {
+    "key": "502821838315cf36073b948b38ac9cbdf4dfe46a",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1935",
+    "documentationLinks": []
+  },
+  "3501:1954": {
+    "key": "bb9ed96f021bda2c615d43596e5274584bf78e2f",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1935",
+    "documentationLinks": []
+  },
+  "3501:1963": {
+    "key": "55cd68fb613765339f1359b6ab6cbc3cb3a29a1c",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1935",
+    "documentationLinks": []
+  },
+  "3501:1973": {
+    "key": "660736b36cd71622c79e7859ba93fddb92bf08a0",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1972",
+    "documentationLinks": []
+  },
+  "3501:1977": {
+    "key": "33acc6a9547df2e77ef351b1a9754848da56efd7",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1972",
+    "documentationLinks": []
+  },
+  "3501:1981": {
+    "key": "4f60f956697def68bdc335348f23839fa926a5a9",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1972",
+    "documentationLinks": []
+  },
+  "3501:1985": {
+    "key": "15fa6d8cf47baf84e87bcaf15b7e7e9520e86a9a",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1972",
+    "documentationLinks": []
+  },
+  "3501:1992": {
+    "key": "b808b4d398badbdaa0eee1814d0ec236b85c6863",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1991",
+    "documentationLinks": []
+  },
+  "3501:1996": {
+    "key": "c226fa5ea045b2454de3e4d5e25935cc6105cd38",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1991",
+    "documentationLinks": []
+  },
+  "3501:2000": {
+    "key": "daace032c8a773674d1bb8330948dac985ce490f",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1991",
+    "documentationLinks": []
+  },
+  "3501:2004": {
+    "key": "72ba3e660d42984100082ab9304a668c837aeee8",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:1991",
+    "documentationLinks": []
+  },
+  "3501:2009": {
+    "key": "2646c705b84a03dab493d91053f1dcaf5ef5fee6",
+    "name": "Selected=False, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2008",
+    "documentationLinks": []
+  },
+  "3501:2015": {
+    "key": "59847023127407e5a16ba79ea59a1f8da27fd0ad",
+    "name": "Selected=False, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2008",
+    "documentationLinks": []
+  },
+  "3501:2021": {
+    "key": "719817189fc6f19933fe61492e68b7a28b4fe0f6",
+    "name": "Selected=True, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2008",
+    "documentationLinks": []
+  },
+  "3501:2027": {
+    "key": "87cd81bfd6e647bcccef9b6ea083ae820d726726",
+    "name": "Selected=True, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2008",
+    "documentationLinks": []
+  },
+  "3501:2036": {
+    "key": "962d76c8cf5e5b4de595b4ebe8a577472aca939f",
+    "name": "Style=2, Direction=Left, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:1601": {
+    "key": "c187eb003c8610c109df302ee18d483dc893ceca",
+    "name": "Icon / chevron-right",
+    "description": "",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:1603": {
+    "key": "325e2f580b3f04aee07f90608870fd343f4a52d0",
+    "name": "Icon / info-circle",
+    "description": "Help\nDetails\nTooltip\nAssistance\nUser help\nUser guide\nOnline help\nSupport",
+    "remote": true,
+    "documentationLinks": []
+  },
+  "3501:2048": {
+    "key": "f173244ffb7662bc48d62bc1785a803b2860681f",
+    "name": "Style=2, Direction=Left, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2060": {
+    "key": "42dc522a11b4f447d9ec350910b605074ff59250",
+    "name": "Style=2, Direction=Bottom, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2072": {
+    "key": "87e6eaa546166b6295f48633093d7845db59a7aa",
+    "name": "Style=2, Direction=Bottom, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2084": {
+    "key": "3ce4d7ae5df367cddb894bc39d4bf43c106e0054",
+    "name": "Style=2, Direction=Right, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2096": {
+    "key": "8c0da6646f35e247b612f77e2b6d1fa85ab78ee9",
+    "name": "Style=2, Direction=Right, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2108": {
+    "key": "8c3021002b7dee0917760dcb22178109c492b83d",
+    "name": "Style=2, Direction=Top, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2120": {
+    "key": "23bcc81126f16c72b549312a88fb3c880c3b120a",
+    "name": "Style=2, Direction=Top, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2132": {
+    "key": "799d535ceabf6f181ba51143f672c8eea20c7dd1",
+    "name": "Style=1, Direction=Left, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2138": {
+    "key": "8c20b5ba5444891b423ca8c3dedf68ca0c8a2644",
+    "name": "Style=1, Direction=Left, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2144": {
+    "key": "bb55cfa06762c03c6e163817e8b1fd957039523b",
+    "name": "Style=1, Direction=Bottom, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2150": {
+    "key": "9e20c9dcc0bc8515de8ebd66317d0b58527acbe3",
+    "name": "Style=1, Direction=Bottom, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2156": {
+    "key": "1b291c28a505887ece362e3a944089dcd8871250",
+    "name": "Style=1, Direction=Right, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2162": {
+    "key": "2182a3673fbe99d216414b11c8351275f49a38dd",
+    "name": "Style=1, Direction=Right, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2168": {
+    "key": "f973642c8ed048dda1f41e9a53a790e0d1719d2c",
+    "name": "Style=1, Direction=Top, Alternate=False",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  },
+  "3501:2174": {
+    "key": "4545e27fb26726123c53990c33d8a0c5611f66bb",
+    "name": "Style=1, Direction=Top, Alternate=True",
+    "description": "",
+    "remote": false,
+    "componentSetId": "3501:2035",
+    "documentationLinks": []
+  }
+}
